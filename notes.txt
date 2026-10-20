@@ -1,2 +1,7 @@
 Line 1: Stable text
+<<<<<<< HEAD
 Line 2: Added by feature A & feature B
+=======
+Line 2: Added by feature b
+Line 3: Legacy branch stuff
+>>>>>>> 7faf796 (feat: update notes.txt from feature C)
