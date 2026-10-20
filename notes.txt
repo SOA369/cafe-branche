@@ -1,2 +1,6 @@
 Line 1: Stable text
+<<<<<<< HEAD
 Line 2: From main branch
+=======
+Line 2: From cherry-pick branch
+>>>>>>> 756ca71 (feat: change line 2 for cherry-pick)
